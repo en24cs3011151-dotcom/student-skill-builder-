@@ -1,0 +1,6 @@
+{
+  "name": "Student Skill Builder",
+  "description": "A modern student productivity and learning management platform to discover skills, follow structured roadmaps, track tasks and goals, and monitor personal growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
